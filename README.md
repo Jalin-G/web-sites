@@ -1,2 +1,2 @@
-# web-sites
+# HTML Practice
 practice
